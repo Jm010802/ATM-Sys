@@ -1,0 +1,2 @@
+Amount Deposited: 1200
+Your Current Balance is: 1500

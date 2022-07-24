@@ -1,0 +1,2 @@
+Amount Withdrawed: 500
+Your Current Balance is: 1000
